@@ -61,8 +61,8 @@ class TextScramble {
 // ——————————————————————————————————————————————————
 
 const phrases = [
-    'Nexonlab',
     'Development',
+    'Product',
     'Tech',
     'Growth'
 ];
